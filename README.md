@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<video src="https://i.imgur.com/rox40PS.mp4" autoplay="true"></video>
+<img src="https://s3.gifyu.com/images/mountain-monks.md.gif" alt="mountain-monks.gif" border="0" />
 
+![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 
 <!--
 **mchocho/mchocho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
