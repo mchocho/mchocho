@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://i.imgur.com/rox40PS.mp4" />
+<video src="https://i.imgur.com/rox40PS.mp4" autoplay="true"></video>
 
 
 <!--
