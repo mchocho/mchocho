@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋🏾
 
-<img src="https://s3.gifyu.com/images/mountain-monks.md.gif" alt="mountain-monks.gif" border="0" />
+<p align="center">
+  <img src="https://s3.gifyu.com/images/mountain-monks.md.gif" alt="Mountain Monks" width="250" />
+</p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 
