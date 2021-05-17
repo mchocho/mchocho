@@ -1,7 +1,7 @@
 ### Hi there 👋🏾
 
 <p align="center">
-  <img src="https://s3.gifyu.com/images/mountain-monks.md.gif" alt="Mountain Monks" width="250" />
+  [![](https://s3.gifyu.com/images/mountain-monks.md.gif)](https://gifyu.com/image/DS7R)
 </p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
