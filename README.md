@@ -28,5 +28,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/wendell_berry_596503?src=t_technology">The latest technology is not always good for anything except to the producers of the technology.</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/sid_meier_251315?src=t_technology">Our approach to making games is to find the fun first and then use the technology to enhance the fun.</a></blockquote>
 </h6>
