@@ -3,8 +3,8 @@ import random
 import pathlib
 import requests
 import datetime
-from urllib.request import urlopen
 from bs4 import BeautifulSoup
+from urllib.request import urlopen
 
 random.seed(str(datetime.datetime.now()))
 root = pathlib.Path(__file__).parent.resolve()
@@ -25,13 +25,13 @@ def req(url):
   return (bsObj)
 
 def fetchQOTD():
-  base    = "https://www.brainyquote.com"
-  page    = ranInt(10, 1)
-  url     = base + "/topics/technology-quotes_" + str(page)
-  bsObj   = req(url)
-  quotes  = bsObj.findAll("a", {"title": "view quote"})
-  i       = ranInt(len(quotes) - 1)
-  j       = 0
+  base   = "https://www.brainyquote.com"
+  page   = ranInt(10, 1)
+  url    = base + "/topics/technology-quotes_" + str(page)
+  bsObj  = req(url)
+  quotes = bsObj.findAll("a", {"title": "view quote"})
+  i      = ranInt(len(quotes) - 1)
+  j      = 0
 
   if len(quotes) == 0:
       return (None)
@@ -52,24 +52,27 @@ def fetchLatestFollower():
   return (follower)
 
 def updateREADME(readme):
-  bsObj    = BeautifulSoup(readme, "html.parser")
-  blockq   = bsObj.find("blockquote")
-  link     = bsObj.find("a", {"class": "follower"})
-  quote    = fetchQOTD()
-  latest   = fetchLatestFollower()
-  follower = link.text
-  newQuote = bsObj.new_tag("a", href=quote[0])
-  newQuote.string = quote[1]
+  bsObj   = BeautifulSoup(readme, "html.parser")
+  link    = bsObj.find("a", {"class": "follower"})
+  quote   = fetchQOTD()
+  latest  = fetchLatestFollower()
+  current = link.text
 
-  link.string        = latest 
-  link.attrs["href"] = "https://github.com/" + latest
-  blockq.clear()
-  blockq.insert(0, newQuote)
+  if latest != current:
+    link.string        = latest 
+    link.attrs["href"] = "https://github.com/" + latest
+
+  if quote is not None: 
+    blockq          = bsObj.find("blockquote")
+    newQuote        = bsObj.new_tag("a", href=quote[0])
+    newQuote.string = quote[1]
+    blockq.clear()
+    blockq.insert(0, newQuote)
   return (str(bsObj))
 
 if __name__ == "__main__":
   path     = root / "README.md"
-  with io.open(path,'r',encoding="utf8") as f:
+  with io.open(path, 'r', encoding="utf8") as f:
     readme = f.read()
   update = updateREADME(readme)
   with io.open(path, 'w', encoding="utf8") as f:
