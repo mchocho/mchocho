@@ -28,5 +28,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/simon_wiesenthal_205794?src=t_technology">The combination of hatred and technology is the greatest danger threatening mankind.</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/wendell_berry_596503?src=t_technology">The latest technology is not always good for anything except to the producers of the technology.</a></blockquote>
 </h6>
