@@ -6,6 +6,7 @@
 <a href="https://www.linkedin.com/in/malesela-chocho-49a191192/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
+
 <a href="https://resume.io/r/GbGoNfdeb">
   <img alt="resume" src="https://img.shields.io/badge/-Resume-purple?style=for-the-badge" />
 </a>
