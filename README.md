@@ -2,8 +2,12 @@
 <img src="https://s3.gifyu.com/images/mountain-monks.gif" width="800"/>
 <h3>Hi there 👋🏿, I'm <b>Sal'e</b> and I ❤️ 2code</h3>
 <h4>
+<p>I'm currently seeking employment</p>
 <a href="https://www.linkedin.com/in/malesela-chocho-49a191192/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
+</a>
+<a href="https://resume.io/r/GbGoNfdeb">
+  <img alt="resume" src="https://img.shields.io/badge/-Resume-purple?style=for-the-badge" />
 </a>
 </h4>
 <h5>Latest follower – <a class="follower" href="https://github.com/Loboa" target="_blank">Loboa</a> 👋🏿</h5>
