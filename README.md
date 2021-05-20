@@ -4,11 +4,10 @@
 <h4>
 <p>I'm currently seeking employment</p>
 <a href="https://www.linkedin.com/in/malesela-chocho-49a191192/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
-
 <a href="https://resume.io/r/GbGoNfdeb">
-  <img alt="resume" src="https://img.shields.io/badge/-Resume-purple?style=for-the-badge" />
+<img alt="resume" src="https://img.shields.io/badge/-Resume-purple?style=for-the-badge"/>
 </a>
 </h4>
 <h5>Latest follower – <a class="follower" href="https://github.com/Loboa" target="_blank">Loboa</a> 👋🏿</h5>
@@ -33,5 +32,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/edward_r_murrow_116313?src=t_technology">A satellite has no conscience.</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/dietmar_hopp_708472?src=t_technology">The biotechnology wave is similar to the information technology wave of the 1980s and 1990s.</a></blockquote>
 </h6>
