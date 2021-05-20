@@ -28,5 +28,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/martin_cooper_1047390?src=t_technology">Technology has to be invisible. Transparent. Just simple.</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/edward_r_murrow_116313?src=t_technology">A satellite has no conscience.</a></blockquote>
 </h6>
