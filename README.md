@@ -32,7 +32,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/oren_etzioni_931702?src=t_technology">
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/theodor_w_adorno_212695?src=t_technology">Technology is making gestures precise and brutal, and with them men.</a></blockquote>
 </h6>
