@@ -32,5 +32,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/theodor_w_adorno_212695?src=t_technology">Technology is making gestures precise and brutal, and with them men.</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/ludwig_mies_van_der_rohe_701716?src=t_technology">Wherever technology reaches its real fulfillment, it transcends into architecture.</a></blockquote>
 </h6>
