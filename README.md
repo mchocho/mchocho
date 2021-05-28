@@ -32,5 +32,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/ludwig_mies_van_der_rohe_701716?src=t_technology">Wherever technology reaches its real fulfillment, it transcends into architecture.</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/nipsey_hussle_1000787?src=t_technology">I pay attention to politics and technology.</a></blockquote>
 </h6>
