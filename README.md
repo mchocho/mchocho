@@ -32,5 +32,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/nipsey_hussle_1000787?src=t_technology">I pay attention to politics and technology.</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/samuel_wilson_250038?src=t_technology">One of the biggest challenges to medicine is the incorporation of information technology in our practices.</a></blockquote>
 </h6>
