@@ -2,7 +2,6 @@
 <img src="https://s3.gifyu.com/images/mountain-monks.gif" width="800"/>
 <h3>Hi there 👋🏿, I'm <b>Sal'e</b> and I ❤️ 2code</h3>
 <h4>
-<p>I'm currently seeking employment</p>
 <a href="https://www.linkedin.com/in/malesela-chocho-49a191192/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
