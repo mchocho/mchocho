@@ -31,5 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/christian_lous_lange_335254?src=t_technology">Technology is a useful servant but a dangerous master.</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/dean_kamen_394841?src=t_technology">Everybody has to be able to participate in a future that they want to live for. That's what technology can do.</a></blockquote>
 </h6>
