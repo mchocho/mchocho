@@ -31,5 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/marc_andreessen_283278?src=t_technology">Any new technology tends to go through a 25-year adoption cycle.</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/linus_torvalds_129184?src=t_technology">Microsoft isn't evil, they just make really crappy operating systems.</a></blockquote>
 </h6>
