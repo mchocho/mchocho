@@ -31,5 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/b_f_skinner_100029?src=t_technology">The real problem is not whether machines think but whether men do.</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/antoine_de_saintexupery_131176?src=t_technology">The machine does not isolate man from the great problems of nature but plunges him more deeply into them.</a></blockquote>
 </h6>
