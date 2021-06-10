@@ -31,5 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/nipsey_hussle_1000787?src=t_technology">I pay attention to politics and technology.</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/richard_dawkins_626786?src=t_technology">Science, as opposed to technology, does violence to common sense.</a></blockquote>
 </h6>
