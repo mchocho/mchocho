@@ -31,5 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/chris_toumazou_689564?src=t_technology">Medical Device technology is truly interdisciplinary.</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/mukesh_ambani_937440?src=t_technology">Mobile internet will be the single-most defining technology of this century for human development.</a></blockquote>
 </h6>
