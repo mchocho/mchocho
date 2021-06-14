@@ -31,5 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/mukesh_ambani_937440?src=t_technology">Mobile internet will be the single-most defining technology of this century for human development.</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/barry_commoner_462474?src=t_technology">World War II had a very important impact on the development of technology, as a whole.</a></blockquote>
 </h6>
