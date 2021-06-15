@@ -31,5 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/barry_commoner_462474?src=t_technology">World War II had a very important impact on the development of technology, as a whole.</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/dennis_ritchie_274074?src=t_technology">For infrastructure technology, C will be hard to displace.</a></blockquote>
 </h6>
