@@ -31,5 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/tae_yoo_889243?src=t_technology">Technology is getting smaller, faster, cheaper, and more powerful every day.</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/naveen_jain_822365?src=t_technology">Technology itself is neither good nor bad. People are good or bad.</a></blockquote>
 </h6>
