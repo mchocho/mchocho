@@ -31,5 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/ryan_bethencourt_798405?src=t_technology">Biology - DNA - is technology. It is coding. It is physical coding, but still code.</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/tae_yoo_889243?src=t_technology">Technology is getting smaller, faster, cheaper, and more powerful every day.</a></blockquote>
 </h6>
