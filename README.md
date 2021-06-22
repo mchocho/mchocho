@@ -31,5 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/tae_yoo_889243?src=t_technology">Technology is getting smaller, faster, cheaper, and more powerful every day.</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/tom_hanks_384349?src=t_technology">Movie-making is telling a story with the best technology at your disposal.</a></blockquote>
 </h6>
