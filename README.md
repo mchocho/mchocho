@@ -31,5 +31,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/tom_hanks_384349?src=t_technology">Movie-making is telling a story with the best technology at your disposal.</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/john_lasseter_413108?src=t_technology">
+
+</a></blockquote>
 </h6>
