@@ -31,5 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/macklemore_483476?src=t_technology">Sampling is kind of prehistoric, given the technology and the textures you can create.</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/che_guevara_746569?src=t_technology">Study hard so that you can master technology, which allows us to master nature.</a></blockquote>
 </h6>
