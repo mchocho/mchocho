@@ -31,7 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/levar_burton_439184?src=t_technology">
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/taavet_hinrikus_935886?src=t_technology">The world is getting smaller thanks to technology.</a></blockquote>
 </h6>
