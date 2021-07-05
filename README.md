@@ -31,5 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/mark_mckinnon_546881?src=t_technology">Technology and social media have brought power back to the people.</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/alexandra_adornetto_725167?src=t_technology">Although technology has enhanced our lives in many ways, it has also ensured the erosion of imagination.</a></blockquote>
 </h6>
