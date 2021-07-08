@@ -31,5 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/alexandra_adornetto_725167?src=t_technology">Although technology has enhanced our lives in many ways, it has also ensured the erosion of imagination.</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/john_mcafee_755432?src=t_technology">Steve Jobs would have wanted his words to change not just technology but politics itself.</a></blockquote>
 </h6>
