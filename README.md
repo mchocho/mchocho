@@ -31,5 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/john_mcafee_755432?src=t_technology">Steve Jobs would have wanted his words to change not just technology but politics itself.</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/ryan_bethencourt_798405?src=t_technology">Biology - DNA - is technology. It is coding. It is physical coding, but still code.</a></blockquote>
 </h6>
