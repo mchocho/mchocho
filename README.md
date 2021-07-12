@@ -31,5 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/adam_silver_756798?src=t_technology">Technology is changing the world; it's changing our sport. It's changing the way people are following the NBA.</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/michael_dell_173360?src=t_technology">Our business is about technology, yes. But it's also about operations and customer relationships.</a></blockquote>
 </h6>
