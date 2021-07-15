@@ -31,5 +31,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/fred_allen_108078?src=t_technology">Television is a medium because anything well done is rare.</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/peter_drucker_173393?src=t_technology">
+
+</a></blockquote>
 </h6>
