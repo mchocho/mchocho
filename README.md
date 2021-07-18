@@ -31,5 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/marissa_mayer_456079?src=t_technology">Product management really is the fusion between technology, what engineers do - and the business side.</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/alain_dehaze_885667?src=t_technology">Technology, through automation and artificial intelligence, is definitely one of the most disruptive sources.</a></blockquote>
 </h6>
