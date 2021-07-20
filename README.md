@@ -31,7 +31,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/e_f_schumacher_108051?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/reed_hastings_423625?src=t_technology">
 
 </a></blockquote>
 </h6>
