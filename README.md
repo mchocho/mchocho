@@ -31,5 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/max_lerner_383750?src=t_technology">A world technology means either a world government or world suicide.</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/steve_jobs_416941?src=t_technology">I've always wanted to own and control the primary technology in everything we do.</a></blockquote>
 </h6>
