@@ -31,5 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/evgeny_morozov_554964?src=t_technology">Technology changes all the time; human nature, hardly ever.</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/dean_kamen_394841?src=t_technology">Everybody has to be able to participate in a future that they want to live for. That's what technology can do.</a></blockquote>
 </h6>
