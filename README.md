@@ -31,5 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/che_guevara_746569?src=t_technology">Study hard so that you can master technology, which allows us to master nature.</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/clive_james_125465?src=t_technology">It is only when they go wrong that machines remind you how powerful they are.</a></blockquote>
 </h6>
