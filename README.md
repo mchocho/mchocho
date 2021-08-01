@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/marshall_mcluhan_386841?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/larry_wall_131241?src=t_technology">
 
-It is the framework which changes with each new technology and not just the picture within the frame.
+Real programmers can write assembly code in any language.
 
 
 </a></blockquote>
