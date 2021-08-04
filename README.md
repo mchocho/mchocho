@@ -31,7 +31,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/richard_lamm_618105?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/tim_oreilly_219558?src=t_technology">
+
+What new technology does is create new opportunities to do a job that customers want done.
+
 
 </a></blockquote>
 </h6>
