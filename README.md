@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/tim_oreilly_219558?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/simon_mainwaring_494031?src=t_technology">
 
-What new technology does is create new opportunities to do a job that customers want done.
+Social media is not about the exploitation of technology but service to community.
 
 
 </a></blockquote>
