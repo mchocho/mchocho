@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/simon_mainwaring_494031?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/bernard_ebbers_405299?src=t_technology">
 
-Social media is not about the exploitation of technology but service to community.
+I know what I don't know. To this day, I don't know technology, and I don't know finance or accounting.
 
 
 </a></blockquote>
