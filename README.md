@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/michael_dell_173360?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/che_guevara_746569?src=t_technology">
 
-Our business is about technology, yes. But it's also about operations and customer relationships.
+Study hard so that you can master technology, which allows us to master nature.
 
 
 </a></blockquote>
