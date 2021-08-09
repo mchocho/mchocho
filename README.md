@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/che_guevara_746569?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/charlie_brooker_884364?src=t_technology">
 
-Study hard so that you can master technology, which allows us to master nature.
+Technology is a tool that has allowed us to swipe around like an angry toddler.
 
 
 </a></blockquote>
