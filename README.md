@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/charlie_brooker_884364?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/john_mcafee_755480?src=t_technology">
 
-Technology is a tool that has allowed us to swipe around like an angry toddler.
+Hackers rarely have full knowledge of the technology stack of a target.
 
 
 </a></blockquote>
