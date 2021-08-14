@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/alexander_mccall_smith_488781?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/john_perry_barlow_125882?src=t_technology">
 
-Oh I love gadgets and I pride myself on keeping at the cutting edge of technology.
+The Internet treats censorship as a malfunction and routes around it.
 
 
 </a></blockquote>
