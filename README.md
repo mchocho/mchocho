@@ -31,10 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/ralph_nader_127686?src=t_technology">
-
-People are stunned to hear that one company has data files on 185 million Americans.
-
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/nathan_deal_342954?src=t_technology"> </a></blockquote>
 </h6>
