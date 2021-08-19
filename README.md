@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/ryan_bethencourt_798405?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jack_ma_477683?src=t_technology">
 
-Biology - DNA - is technology. It is coding. It is physical coding, but still code.
+I'm not a tech guy. I'm looking at the technology with the eyes of my customers, normal people's eyes.
 
 
 </a></blockquote>
