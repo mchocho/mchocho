@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jack_ma_477683?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/dennis_muilenburg_880091?src=t_technology">
 
-I'm not a tech guy. I'm looking at the technology with the eyes of my customers, normal people's eyes.
+The future of innovation has to include not only the technology, but economic viability.
 
 
 </a></blockquote>
