@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/dennis_muilenburg_880091?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/godfrey_reggio_355797?src=t_technology">
 
-The future of innovation has to include not only the technology, but economic viability.
+It's not that we use technology, we live technology.
 
 
 </a></blockquote>
