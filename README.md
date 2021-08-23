@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/godfrey_reggio_355797?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/levar_burton_439189?src=t_technology">
 
-It's not that we use technology, we live technology.
+If we marry educational technology with quality, enriching content, that's a circle of win.
 
 
 </a></blockquote>
