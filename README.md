@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/levar_burton_439189?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/dietmar_hopp_708472?src=t_technology">
 
-If we marry educational technology with quality, enriching content, that's a circle of win.
+The biotechnology wave is similar to the information technology wave of the 1980s and 1990s.
 
 
 </a></blockquote>
