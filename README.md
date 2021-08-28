@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/todd_howard_986083?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/fred_allen_108078?src=t_technology">
 
-I see games... as the ultimate combination of art and technology.
+Television is a medium because anything well done is rare.
 
 
 </a></blockquote>
