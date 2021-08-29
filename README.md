@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/fred_allen_108078?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/levar_burton_439189?src=t_technology">
 
-Television is a medium because anything well done is rare.
+If we marry educational technology with quality, enriching content, that's a circle of win.
 
 
 </a></blockquote>
