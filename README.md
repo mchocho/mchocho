@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/levar_burton_439189?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jonathan_sacks_485214?src=t_technology">
 
-If we marry educational technology with quality, enriching content, that's a circle of win.
+Cyberspace can't compensate for real space. We benefit from chatting to people face to face.
 
 
 </a></blockquote>
