@@ -31,5 +31,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/larry_wall_109885?src=t_technology"> </a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jane_chen_560549?src=t_technology">
+
+Technology is only an enabler, which can help achieve the intention of the person who is using it.
+
+
+</a></blockquote>
 </h6>
