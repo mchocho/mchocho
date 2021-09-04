@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/tim_bernerslee_444479?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/dan_brown_864802?src=t_technology">
 
-We can't blame the technology when we make mistakes.
+Technology is changing the way we interact as humans.
 
 
 </a></blockquote>
