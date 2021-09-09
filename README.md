@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/tim_oreilly_219558?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/john_mcafee_755432?src=t_technology">
 
-What new technology does is create new opportunities to do a job that customers want done.
+Steve Jobs would have wanted his words to change not just technology but politics itself.
 
 
 </a></blockquote>
