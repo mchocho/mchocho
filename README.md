@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/john_mcafee_755432?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/mitch_kapor_690432?src=t_technology">
 
-Steve Jobs would have wanted his words to change not just technology but politics itself.
+If information wants to be free, then that's true everywhere, not just in information technology.
 
 
 </a></blockquote>
