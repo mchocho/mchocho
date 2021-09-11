@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/mitch_kapor_690432?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/neri_oxman_906483?src=t_technology">
 
-If information wants to be free, then that's true everywhere, not just in information technology.
+Craft meets the machine in rapid fabrication. We can generate craft with the help of technology.
 
 
 </a></blockquote>
