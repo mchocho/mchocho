@@ -31,10 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/mark_mckinnon_546881?src=t_technology">
-
-Technology and social media have brought power back to the people.
-
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jaron_lanier_129245?src=t_technology"> </a></blockquote>
 </h6>
