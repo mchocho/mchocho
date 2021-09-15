@@ -31,5 +31,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jaron_lanier_129245?src=t_technology"> </a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jeff_bezos_450001?src=t_technology">
+
+I think there are going to be a bunch of tablet-like devices. It's really a different product category.
+
+
+</a></blockquote>
 </h6>
