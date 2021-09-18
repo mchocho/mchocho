@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/john_de_lancie_1082018?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/shoshana_zuboff_392610?src=t_technology">
 
-No technology comes close to the effect of a live symphony orchestra.
+As information technology restructures the work situation, it abstracts thought from action.
 
 
 </a></blockquote>
