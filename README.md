@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/ludwig_mies_van_der_rohe_701716?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/arthur_c_clarke_158974?src=t_technology">
 
-Wherever technology reaches its real fulfillment, it transcends into architecture.
+Our lifetime may be the last that will be lived out in a technological society.
 
 
 </a></blockquote>
