@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/steve_jobs_416920?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/nathan_deal_342954?src=t_technology">
 
-It's not a faith in technology. It's faith in people.
+As a physician, I know many doctors want to utilize new technology, but they find the cost prohibitive.
 
 
 </a></blockquote>
