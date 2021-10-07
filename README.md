@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/max_lerner_383750?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/alan_perlis_177289?src=t_technology">
 
-A world technology means either a world government or world suicide.
+In software systems it is often the early bird that makes the worm.
 
 
 </a></blockquote>
