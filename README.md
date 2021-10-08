@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/alan_perlis_177289?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/larry_page_622181?src=t_technology">
 
-In software systems it is often the early bird that makes the worm.
+Especially in technology, we need revolutionary change, not incremental change.
 
 
 </a></blockquote>
