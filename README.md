@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/larry_wall_109885?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jordan_peterson_927046?src=t_technology">
 
-Doing linear scans over an associative array is like trying to club someone to death with a loaded Uzi.
+To master a new technology, you have to play with it.
 
 
 </a></blockquote>
