@@ -31,5 +31,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/bob_dole_102270?src=t_technology"> </a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/martin_cooper_1047449?src=t_technology">
+
+We should be focused on how to make people's lives better. That is the purpose of technology.
+
+
+</a></blockquote>
 </h6>
