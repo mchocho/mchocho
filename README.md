@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/arthur_c_clarke_101182?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/andy_mineo_923051?src=t_technology">
 
-Any sufficiently advanced technology is indistinguishable from magic.
+Technology has opened up the music business 100-fold and provided space for all kinds of new faces.
 
 
 </a></blockquote>
