@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/clive_james_125465?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/tom_hanks_384349?src=t_technology">
 
-It is only when they go wrong that machines remind you how powerful they are.
+Movie-making is telling a story with the best technology at your disposal.
 
 
 </a></blockquote>
