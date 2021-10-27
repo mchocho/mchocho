@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/tim_bernerslee_444479?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/b_f_skinner_100029?src=t_technology">
 
-We can't blame the technology when we make mistakes.
+The real problem is not whether machines think but whether men do.
 
 
 </a></blockquote>
