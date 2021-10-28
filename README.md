@@ -31,10 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/b_f_skinner_100029?src=t_technology">
-
-The real problem is not whether machines think but whether men do.
-
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/shoshana_zuboff_398657?src=t_technology"> </a></blockquote>
 </h6>
