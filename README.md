@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/clifford_stoll_129899?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/nassim_nicholas_taleb_530984?src=t_technology">
 
-The Internet is a telephone system that's gotten uppity.
+All of technology, really, is about maximizing free options.
 
 
 </a></blockquote>
