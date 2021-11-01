@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/nassim_nicholas_taleb_530984?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/andy_mineo_923051?src=t_technology">
 
-All of technology, really, is about maximizing free options.
+Technology has opened up the music business 100-fold and provided space for all kinds of new faces.
 
 
 </a></blockquote>
