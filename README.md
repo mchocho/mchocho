@@ -31,10 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/andy_mineo_923051?src=t_technology">
-
-Technology has opened up the music business 100-fold and provided space for all kinds of new faces.
-
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/thomas_friedman_342286?src=t_technology"> </a></blockquote>
 </h6>
