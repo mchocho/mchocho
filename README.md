@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/margaret_atwood_574284?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/shoshana_zuboff_398657?src=t_technology">
 
-Every aspect of human technology has a dark side, including the bow and arrow.
+Technology makes the world a new place.
 
 
 </a></blockquote>
