@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/shoshana_zuboff_398657?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/dalai_lama_621071?src=t_technology">
 
-Technology makes the world a new place.
+I think technology really increased human ability. But technology cannot produce compassion.
 
 
 </a></blockquote>
