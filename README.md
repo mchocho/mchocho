@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/dalai_lama_621071?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/mary_pickford_109823?src=t_technology">
 
-I think technology really increased human ability. But technology cannot produce compassion.
+Adding sound to movies would be like putting lipstick on the Venus de Milo.
 
 
 </a></blockquote>
