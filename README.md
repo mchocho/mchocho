@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/mary_pickford_109823?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/fred_allen_108078?src=t_technology">
 
-Adding sound to movies would be like putting lipstick on the Venus de Milo.
+Television is a medium because anything well done is rare.
 
 
 </a></blockquote>
