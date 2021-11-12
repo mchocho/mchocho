@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://s3.gifyu.com/images/mountain-monks.gif" width="800"/>
+<img src="https://s9.gifyu.com/images/bruce-lee-kicks.gif" width="800"/>
 <h3>Hi there 👋🏿, I'm <b>Sal'e</b> and I ❤️ 2code</h3>
 <h4>
 <a href="https://www.linkedin.com/in/malesela-chocho-49a191192/">
