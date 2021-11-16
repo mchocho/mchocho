@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/ursula_k_le_guin_399804?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/marc_benioff_532179?src=t_technology">
 
-If science fiction is the mythology of modern technology, then its myth is tragic.
+The only constant in the technology industry is change.
 
 
 </a></blockquote>
