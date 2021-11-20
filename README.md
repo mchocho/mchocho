@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/john_de_lancie_1082018?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/matt_mullenweg_541097?src=t_technology">
 
-No technology comes close to the effect of a live symphony orchestra.
+Technology is best when it brings people together.
 
 
 </a></blockquote>
