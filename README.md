@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/matt_mullenweg_541097?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/sid_meier_251315?src=t_technology">
 
-Technology is best when it brings people together.
+Our approach to making games is to find the fun first and then use the technology to enhance the fun.
 
 
 </a></blockquote>
