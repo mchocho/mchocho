@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/sid_meier_251315?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/gertrude_stein_107878?src=t_technology">
 
-Our approach to making games is to find the fun first and then use the technology to enhance the fun.
+Everybody gets so much information all day long that they lose their common sense.
 
 
 </a></blockquote>
