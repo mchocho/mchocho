@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/gertrude_stein_107878?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/tamilisai_soundararajan_1043618?src=t_technology">
 
-Everybody gets so much information all day long that they lose their common sense.
+Healthcare is an area that has the greatest potential to benefit from technology.
 
 
 </a></blockquote>
