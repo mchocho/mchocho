@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/tamilisai_soundararajan_1043618?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/bill_gates_626111?src=t_technology">
 
-Healthcare is an area that has the greatest potential to benefit from technology.
+The intersection of law, politics, and technology is going to force a lot of good thinking.
 
 
 </a></blockquote>
