@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/bill_gates_626111?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/alexander_mccall_smith_488781?src=t_technology">
 
-The intersection of law, politics, and technology is going to force a lot of good thinking.
+Oh I love gadgets and I pride myself on keeping at the cutting edge of technology.
 
 
 </a></blockquote>
