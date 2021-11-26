@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/alexander_mccall_smith_488781?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/john_mcafee_755480?src=t_technology">
 
-Oh I love gadgets and I pride myself on keeping at the cutting edge of technology.
+Hackers rarely have full knowledge of the technology stack of a target.
 
 
 </a></blockquote>
