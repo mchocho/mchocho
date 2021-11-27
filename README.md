@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/john_mcafee_755480?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/mark_warner_175746?src=t_technology">
 
-Hackers rarely have full knowledge of the technology stack of a target.
+Virginia is the absolute leader in homeland security and defense and information technology.
 
 
 </a></blockquote>
