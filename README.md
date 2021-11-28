@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/mark_warner_175746?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/dennis_muilenburg_880091?src=t_technology">
 
-Virginia is the absolute leader in homeland security and defense and information technology.
+The future of innovation has to include not only the technology, but economic viability.
 
 
 </a></blockquote>
