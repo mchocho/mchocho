@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/dennis_muilenburg_880091?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jeffrey_sachs_203567?src=t_technology">
 
-The future of innovation has to include not only the technology, but economic viability.
+Globalization was a deep trend pushed by technology and right ideas, as much as anything else.
 
 
 </a></blockquote>
