@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jeffrey_sachs_203567?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/taavet_hinrikus_935886?src=t_technology">
 
-Globalization was a deep trend pushed by technology and right ideas, as much as anything else.
+The world is getting smaller thanks to technology.
 
 
 </a></blockquote>
