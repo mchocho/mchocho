@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/bill_gates_626115?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/brian_eno_478190?src=t_technology">
 
-Technology is unlocking the innate compassion we have for our fellow human beings.
+You can't really imagine music without technology.
 
 
 </a></blockquote>
