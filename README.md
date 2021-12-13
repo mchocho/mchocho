@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/nassim_nicholas_taleb_530984?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/ludacris_424224?src=t_technology">
 
-All of technology, really, is about maximizing free options.
+I love technology. We can be our own DJs wherever we go.
 
 
 </a></blockquote>
