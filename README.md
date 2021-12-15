@@ -31,10 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/elbert_hubbard_108045?src=t_technology">
-
-One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.
-
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/linus_torvalds_129184?src=t_technology"> </a></blockquote>
 </h6>
