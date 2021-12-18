@@ -31,5 +31,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/shaun_evans_929499?src=t_technology"> </a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/frank_lloyd_wright_101187?src=t_technology">
+
+If it keeps up, man will atrophy all his limbs but the push-button finger.
+
+
+</a></blockquote>
 </h6>
