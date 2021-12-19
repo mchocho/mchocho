@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/frank_lloyd_wright_101187?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/kevin_mitnick_613263?src=t_technology">
 
-If it keeps up, man will atrophy all his limbs but the push-button finger.
+What I found personally to be true was that it's easier to manipulate people rather than technology.
 
 
 </a></blockquote>
