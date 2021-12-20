@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/kevin_mitnick_613263?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jordan_peterson_927042?src=t_technology">
 
-What I found personally to be true was that it's easier to manipulate people rather than technology.
+The multiplication force of technology on cognitive differences is massive.
 
 
 </a></blockquote>
