@@ -31,10 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jordan_peterson_927042?src=t_technology">
-
-The multiplication force of technology on cognitive differences is massive.
-
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/dietmar_hopp_708472?src=t_technology"> </a></blockquote>
 </h6>
