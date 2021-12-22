@@ -31,5 +31,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/dietmar_hopp_708472?src=t_technology"> </a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/alexander_mccall_smith_488781?src=t_technology">
+
+Oh I love gadgets and I pride myself on keeping at the cutting edge of technology.
+
+
+</a></blockquote>
 </h6>
