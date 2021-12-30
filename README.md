@@ -31,10 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/n_chandrababu_naidu_989112?src=t_technology">
-
-In information technology, money is not the issue. Willingness to implement and execute is the issue.
-
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/orrin_hatch_102546?src=t_technology"> </a></blockquote>
 </h6>
