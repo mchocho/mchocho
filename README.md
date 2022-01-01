@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/dennis_muilenburg_880091?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/michael_porter_381636?src=t_technology">
 
-The future of innovation has to include not only the technology, but economic viability.
+The underlying principles of strategy are enduring, regardless of technology or the pace of change.
 
 
 </a></blockquote>
