@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/dietmar_hopp_708472?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/antoine_de_saintexupery_131176?src=t_technology">
 
-The biotechnology wave is similar to the information technology wave of the 1980s and 1990s.
+The machine does not isolate man from the great problems of nature but plunges him more deeply into them.
 
 
 </a></blockquote>
