@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/prince_751810?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jason_silva_621954?src=t_technology">
 
-Technology is cool, but you've got to use it as opposed to letting it use you.
+Technology is, of course, a double edged sword. Fire can cook our food but also burn us.
 
 
 </a></blockquote>
