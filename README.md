@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jason_silva_621954?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/tim_sweeney_990073?src=t_technology">
 
-Technology is, of course, a double edged sword. Fire can cook our food but also burn us.
+It turns out that the most powerful use of technology is to connect people together socially.
 
 
 </a></blockquote>
