@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/alvin_toffler_383930?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/charles_mengel_allen_190176?src=t_technology">
 
-Technology feeds on itself. Technology makes more technology possible.
+If the human race wants to go to hell in a basket, technology can help it get there by jet.
 
 
 </a></blockquote>
