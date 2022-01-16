@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jaan_tallinn_818389?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/robert_lepage_933835?src=t_technology">
 
-Healthcare is the only civil system where new technology makes prices go up instead of down.
+Theater originated with technology. People forget that.
 
 
 </a></blockquote>
