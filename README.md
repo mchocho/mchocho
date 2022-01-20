@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/arthur_c_clarke_158974?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/michael_porter_381636?src=t_technology">
 
-Our lifetime may be the last that will be lived out in a technological society.
+The underlying principles of strategy are enduring, regardless of technology or the pace of change.
 
 
 </a></blockquote>
