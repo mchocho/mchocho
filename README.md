@@ -31,10 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/michael_porter_381636?src=t_technology">
-
-The underlying principles of strategy are enduring, regardless of technology or the pace of change.
-
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/richard_lamm_618105?src=t_technology"> </a></blockquote>
 </h6>
