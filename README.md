@@ -31,5 +31,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/richard_lamm_618105?src=t_technology"> </a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/christian_lous_lange_335254?src=t_technology">
+
+Technology is a useful servant but a dangerous master.
+
+
+</a></blockquote>
 </h6>
