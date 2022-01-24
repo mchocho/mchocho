@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/christian_lous_lange_335254?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/andy_mineo_923051?src=t_technology">
 
-Technology is a useful servant but a dangerous master.
+Technology has opened up the music business 100-fold and provided space for all kinds of new faces.
 
 
 </a></blockquote>
