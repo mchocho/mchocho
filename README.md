@@ -31,5 +31,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/martin_cooper_1047390?src=t_technology"> </a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/aleksander_kwasniewski_178527?src=t_technology">
+
+Technology should be an important ingredient. It may be and should be a tool for social development.
+
+
+</a></blockquote>
 </h6>
