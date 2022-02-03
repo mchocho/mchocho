@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/marc_benioff_532179?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/todd_howard_986096?src=t_technology">
 
-The only constant in the technology industry is change.
+Every year, there's a new idea we can't do and a new technology for something that excites us.
 
 
 </a></blockquote>
