@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/todd_howard_986096?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/frank_lloyd_wright_101187?src=t_technology">
 
-Every year, there's a new idea we can't do and a new technology for something that excites us.
+If it keeps up, man will atrophy all his limbs but the push-button finger.
 
 
 </a></blockquote>
