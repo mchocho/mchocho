@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/frank_lloyd_wright_101187?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/richard_lamm_618105?src=t_technology">
 
-If it keeps up, man will atrophy all his limbs but the push-button finger.
+Universal coverage, not medical technology, is the foundation of any caring health care system.
 
 
 </a></blockquote>
