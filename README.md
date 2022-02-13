@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/edward_teller_102595?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/astro_teller_720810?src=t_technology">
 
-The science of today is the technology of tomorrow.
+Doing exercise without monitoring yourself will be rare in the future of wearable technology.
 
 
 </a></blockquote>
