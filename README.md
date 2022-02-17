@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/oren_etzioni_931702?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jimmy_buffett_368921?src=t_technology">
 
-AI is neither good nor evil. It's a tool. It's a technology for us to use.
+I hate to mention age, but I come from an era when we weren't consumed by technology and television.
 
 
 </a></blockquote>
