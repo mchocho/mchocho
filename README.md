@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/ludwig_mies_van_der_rohe_701716?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/max_frisch_390578?src=t_technology">
 
-Wherever technology reaches its real fulfillment, it transcends into architecture.
+Technology... the knack of so arranging the world that we don't have to experience it.
 
 
 </a></blockquote>
