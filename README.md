@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/max_frisch_390578?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/yoshiro_mori_404920?src=t_technology">
 
-Technology... the knack of so arranging the world that we don't have to experience it.
+India and Japan should develop a complementary relationship in information technology.
 
 
 </a></blockquote>
