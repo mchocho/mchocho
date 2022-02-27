@@ -31,5 +31,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/antoine_de_saintexupery_131176?src=t_technology"> </a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/steven_berkoff_970523?src=t_technology">
+
+Technology is the devil, and the more technology you have, the higher the price you pay.
+
+
+</a></blockquote>
 </h6>
