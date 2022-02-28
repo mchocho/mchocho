@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/steven_berkoff_970523?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/frank_abagnale_790763?src=t_technology">
 
-Technology is the devil, and the more technology you have, the higher the price you pay.
+There is no technology today that cannot be defeated by social engineering.
 
 
 </a></blockquote>
