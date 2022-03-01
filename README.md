@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/frank_abagnale_790763?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/naveen_jain_822365?src=t_technology">
 
-There is no technology today that cannot be defeated by social engineering.
+Technology itself is neither good nor bad. People are good or bad.
 
 
 </a></blockquote>
