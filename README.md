@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/naveen_jain_822365?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/ralph_nader_127686?src=t_technology">
 
-Technology itself is neither good nor bad. People are good or bad.
+People are stunned to hear that one company has data files on 185 million Americans.
 
 
 </a></blockquote>
