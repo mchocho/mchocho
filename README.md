@@ -31,5 +31,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/chris_toumazou_689564?src=t_technology"> </a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/ana_patricia_botin_856346?src=t_technology">
+
+I want the best people, not just on the banking side but on innovation and technology.
+
+
+</a></blockquote>
 </h6>
