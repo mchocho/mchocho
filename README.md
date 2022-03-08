@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/shoshana_zuboff_398657?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/unknown_161262?src=t_technology">
 
-Technology makes the world a new place.
+It has become appallingly obvious that our technology has exceeded our humanity.
 
 
 </a></blockquote>
