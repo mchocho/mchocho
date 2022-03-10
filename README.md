@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/john_naisbitt_159134?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/freeman_thomas_405929?src=t_technology">
 
-We must learn to balance the material wonders of technology with the spiritual demands of our human race.
+We were promised a simpler life, and technology has only complicated our lives.
 
 
 </a></blockquote>
