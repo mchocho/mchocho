@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/stewart_brand_172275?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/adam_driver_628241?src=t_technology">
 
-Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road.
+I don't understand technology, and I'm very scared of it.
 
 
 </a></blockquote>
