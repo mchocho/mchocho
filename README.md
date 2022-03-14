@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/che_guevara_746569?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/william_s_burroughs_578961?src=t_technology">
 
-Study hard so that you can master technology, which allows us to master nature.
+The purpose of technology is not to confuse the brain but to serve the body.
 
 
 </a></blockquote>
