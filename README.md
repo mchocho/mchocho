@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/sebastian_thrun_694778?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/muhammad_yunus_593352?src=t_technology">
 
-Technology is synonymous for connection with other people.
+While technology is important, it's what we do with it that truly matters.
 
 
 </a></blockquote>
