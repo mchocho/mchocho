@@ -31,10 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/muhammad_yunus_593352?src=t_technology">
-
-While technology is important, it's what we do with it that truly matters.
-
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/matt_mullenweg_541097?src=t_technology"> </a></blockquote>
 </h6>
