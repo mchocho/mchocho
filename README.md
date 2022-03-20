@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/erik_brynjolfsson_554742?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/emily_calandrelli_866257?src=t_technology">
 
-Technology is not destiny.
+Girls need to see somebody that looks like them talking about science and technology.
 
 
 </a></blockquote>
