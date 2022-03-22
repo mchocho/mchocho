@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/emily_calandrelli_866257?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/peter_thiel_710352?src=t_technology">
 
-Girls need to see somebody that looks like them talking about science and technology.
+Technology just means information technology.
 
 
 </a></blockquote>
