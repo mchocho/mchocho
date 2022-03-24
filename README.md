@@ -31,10 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jonathan_sacks_485214?src=t_technology">
-
-Cyberspace can't compensate for real space. We benefit from chatting to people face to face.
-
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/dietmar_hopp_708472?src=t_technology"> </a></blockquote>
 </h6>
