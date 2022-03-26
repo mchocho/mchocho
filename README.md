@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/carl_sagan_108057?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/john_lasseter_413108?src=t_technology">
 
-We've arranged a civilization in which most crucial elements profoundly depend on science and technology.
+The art challenges the technology, and the technology inspires the art.
 
 
 </a></blockquote>
