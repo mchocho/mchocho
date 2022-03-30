@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/barry_commoner_462466?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/dave_barry_102110?src=t_technology">
 
-The age of innocent faith in science and technology may be over.
+Bill Gates is a very rich man today... and do you want to know why? The answer is one word: versions.
 
 
 </a></blockquote>
