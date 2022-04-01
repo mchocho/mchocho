@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/edward_teller_102595?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/adam_driver_628241?src=t_technology">
 
-The science of today is the technology of tomorrow.
+I don't understand technology, and I'm very scared of it.
 
 
 </a></blockquote>
