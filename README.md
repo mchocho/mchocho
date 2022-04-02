@@ -31,10 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/adam_driver_628241?src=t_technology">
-
-I don't understand technology, and I'm very scared of it.
-
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/saroo_brierley_948968?src=t_technology"> </a></blockquote>
 </h6>
