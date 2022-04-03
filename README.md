@@ -31,5 +31,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/saroo_brierley_948968?src=t_technology"> </a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/katie_hopkins_971631?src=t_technology">
+
+We may think we live in a digital age. But there are some things technology will never replace.
+
+
+</a></blockquote>
 </h6>
