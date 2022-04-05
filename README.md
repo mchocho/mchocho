@@ -9,7 +9,7 @@
 <img alt="resume" src="https://img.shields.io/badge/-Resume-purple?style=for-the-badge"/>
 </a>
 </h4>
-<h5>Latest follower – <a class="follower" href="https://github.com/ALittleLessThanMediocre" target="_blank">ALittleLessThanMediocre</a> 👋🏿</h5>
+<h5>Latest follower – <a class="follower" href="https://github.com/MoshiDaBush" target="_blank">MoshiDaBush</a> 👋🏿</h5>
 <h4>Favourites</h4>
 <h5>
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;ogoColor=white"/>  
@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/margaret_atwood_574332?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/marissa_mayer_456050?src=t_technology">
 
-People use technology only to mean digital technology. Technology is actually everything we make.
+I love technology, and I don't think it's something that should divide along gender lines.
 
 
 </a></blockquote>
