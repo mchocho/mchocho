@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/marissa_mayer_456050?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/farhan_akhtar_976346?src=t_technology">
 
-I love technology, and I don't think it's something that should divide along gender lines.
+I am very fond of technology and like to keep pace with change.
 
 
 </a></blockquote>
