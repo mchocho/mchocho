@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/n_chandrababu_naidu_989109?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/adi_godrej_706820?src=t_technology">
 
-Fourth industrial revolution is a deadly combination of technology and Internet of Things.
+It's a mistake to believe technology rests outside India. We compete very successfully.
 
 
 </a></blockquote>
