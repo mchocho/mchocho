@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/adi_godrej_706820?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jan_c_ting_638183?src=t_technology">
 
-It's a mistake to believe technology rests outside India. We compete very successfully.
+Technology and robotics are advancing and will reduce the need for workers in the future.
 
 
 </a></blockquote>
