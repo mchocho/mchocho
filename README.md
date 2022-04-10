@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jan_c_ting_638183?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/robert_lepage_933834?src=t_technology">
 
-Technology and robotics are advancing and will reduce the need for workers in the future.
+I've always been a little scared of technology, which is why I explore it.
 
 
 </a></blockquote>
