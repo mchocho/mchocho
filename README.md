@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/robert_lepage_933834?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/adi_godrej_706820?src=t_technology">
 
-I've always been a little scared of technology, which is why I explore it.
+It's a mistake to believe technology rests outside India. We compete very successfully.
 
 
 </a></blockquote>
