@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/adi_godrej_706820?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/aleksander_kwasniewski_178527?src=t_technology">
 
-It's a mistake to believe technology rests outside India. We compete very successfully.
+Technology should be an important ingredient. It may be and should be a tool for social development.
 
 
 </a></blockquote>
