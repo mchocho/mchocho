@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/aleksander_kwasniewski_178527?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/ryan_bethencourt_798409?src=t_technology">
 
-Technology should be an important ingredient. It may be and should be a tool for social development.
+Our world is built on biology and once we begin to understand it, it then becomes a technology.
 
 
 </a></blockquote>
