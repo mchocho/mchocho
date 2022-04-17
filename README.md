@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/steven_levy_219537?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jack_ma_477683?src=t_technology">
 
-Computer technology is so built into our lives that it's part of the surround of every artist.
+I'm not a tech guy. I'm looking at the technology with the eyes of my customers, normal people's eyes.
 
 
 </a></blockquote>
