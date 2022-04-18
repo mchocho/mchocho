@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jack_ma_477683?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/antoine_de_saintexupery_131176?src=t_technology">
 
-I'm not a tech guy. I'm looking at the technology with the eyes of my customers, normal people's eyes.
+The machine does not isolate man from the great problems of nature but plunges him more deeply into them.
 
 
 </a></blockquote>
