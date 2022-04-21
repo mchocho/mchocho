@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/neri_oxman_906483?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/robert_m_pirsig_676388?src=t_technology">
 
-Craft meets the machine in rapid fabrication. We can generate craft with the help of technology.
+If you run from technology, it will chase you.
 
 
 </a></blockquote>
