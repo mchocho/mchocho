@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/margaret_atwood_574284?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/vivienne_ming_822211?src=t_technology">
 
-Every aspect of human technology has a dark side, including the bow and arrow.
+AI might be a powerful technology, but things won't get better simply by adding AI.
 
 
 </a></blockquote>
