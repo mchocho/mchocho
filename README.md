@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/freeman_thomas_405929?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/martin_cooper_1047390?src=t_technology">
 
-We were promised a simpler life, and technology has only complicated our lives.
+Technology has to be invisible. Transparent. Just simple.
 
 
 </a></blockquote>
