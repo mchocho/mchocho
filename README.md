@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/martin_cooper_1047390?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jack_ma_477683?src=t_technology">
 
-Technology has to be invisible. Transparent. Just simple.
+I'm not a tech guy. I'm looking at the technology with the eyes of my customers, normal people's eyes.
 
 
 </a></blockquote>
