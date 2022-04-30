@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/godfrey_reggio_355797?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/iris_apfel_723244?src=t_technology">
 
-It's not that we use technology, we live technology.
+Technology is a wonderful thing, but I think it's violently misused.
 
 
 </a></blockquote>
