@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/iris_apfel_723244?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/demetri_martin_414435?src=t_technology">
 
-Technology is a wonderful thing, but I think it's violently misused.
+The digital camera is a great invention because it allows us to reminisce. Instantly.
 
 
 </a></blockquote>
