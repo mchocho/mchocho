@@ -31,10 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/demetri_martin_414435?src=t_technology">
-
-The digital camera is a great invention because it allows us to reminisce. Instantly.
-
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/r_buckminster_fuller_113331?src=t_technology"> </a></blockquote>
 </h6>
