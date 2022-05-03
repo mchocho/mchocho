@@ -31,5 +31,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/r_buckminster_fuller_113331?src=t_technology"> </a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/henry_rollins_616778?src=t_technology">
+
+With any advent in technology, any technological innovation, there is the good and the bad.
+
+
+</a></blockquote>
 </h6>
