@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/henry_rollins_616778?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/max_frisch_108046?src=t_technology">
 
-With any advent in technology, any technological innovation, there is the good and the bad.
+Technology is the knack of so arranging the world that we don't have to experience it.
 
 
 </a></blockquote>
