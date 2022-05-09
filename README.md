@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/macklemore_483476?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/steven_levy_219537?src=t_technology">
 
-Sampling is kind of prehistoric, given the technology and the textures you can create.
+Computer technology is so built into our lives that it's part of the surround of every artist.
 
 
 </a></blockquote>
