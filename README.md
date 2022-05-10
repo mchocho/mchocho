@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/steven_levy_219537?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/stewart_brand_172275?src=t_technology">
 
-Computer technology is so built into our lives that it's part of the surround of every artist.
+Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road.
 
 
 </a></blockquote>
