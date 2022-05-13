@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/john_naisbitt_159134?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/steven_levy_219537?src=t_technology">
 
-We must learn to balance the material wonders of technology with the spiritual demands of our human race.
+Computer technology is so built into our lives that it's part of the surround of every artist.
 
 
 </a></blockquote>
