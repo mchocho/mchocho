@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/reed_hastings_423625?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/muhammad_yunus_593352?src=t_technology">
 
-Stone Age. Bronze Age. Iron Age. We define entire epics of humanity by the technology they use.
+While technology is important, it's what we do with it that truly matters.
 
 
 </a></blockquote>
