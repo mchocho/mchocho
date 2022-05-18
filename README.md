@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/yoshiro_mori_404920?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jason_silva_621954?src=t_technology">
 
-India and Japan should develop a complementary relationship in information technology.
+Technology is, of course, a double edged sword. Fire can cook our food but also burn us.
 
 
 </a></blockquote>
