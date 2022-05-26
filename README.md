@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/nick_johnson_406557?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/sebastian_thrun_694778?src=t_technology">
 
-The further you get into technology, the further you go into gaming. That's the general rule.
+Technology is synonymous for connection with other people.
 
 
 </a></blockquote>
