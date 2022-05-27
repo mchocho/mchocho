@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/sebastian_thrun_694778?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/paul_allen_947956?src=t_technology">
 
-Technology is synonymous for connection with other people.
+Languages evolve; ideas blend together. In computer technology, we all stand on others' shoulders.
 
 
 </a></blockquote>
