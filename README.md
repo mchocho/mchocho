@@ -31,5 +31,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/william_gibson_131233?src=t_technology"> </a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/ramez_naam_706063?src=t_technology">
+
+The final frontier of the digital technology is integrating into your own brain.
+
+
+</a></blockquote>
 </h6>
