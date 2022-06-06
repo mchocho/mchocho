@@ -31,10 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/ludwig_mies_van_der_rohe_701716?src=t_technology">
-
-Wherever technology reaches its real fulfillment, it transcends into architecture.
-
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/abigail_johnson_848042?src=t_technology"> </a></blockquote>
 </h6>
