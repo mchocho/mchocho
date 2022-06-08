@@ -31,5 +31,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/yoshiro_mori_404920?src=t_technology"> </a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/margaret_atwood_574332?src=t_technology">
+
+People use technology only to mean digital technology. Technology is actually everything we make.
+
+
+</a></blockquote>
 </h6>
