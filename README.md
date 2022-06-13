@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/scott_cook_184204?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/prince_751810?src=t_technology">
 
-We're still in the first minutes of the first day of the Internet revolution.
+Technology is cool, but you've got to use it as opposed to letting it use you.
 
 
 </a></blockquote>
