@@ -31,10 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/paul_allen_947956?src=t_technology">
-
-Languages evolve; ideas blend together. In computer technology, we all stand on others' shoulders.
-
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/william_s_burroughs_578961?src=t_technology"> </a></blockquote>
 </h6>
