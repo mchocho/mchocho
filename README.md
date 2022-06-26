@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/antoine_de_saintexupery_131176?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/frank_lloyd_wright_101187?src=t_technology">
 
-The machine does not isolate man from the great problems of nature but plunges him more deeply into them.
+If it keeps up, man will atrophy all his limbs but the push-button finger.
 
 
 </a></blockquote>
