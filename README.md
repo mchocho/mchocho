@@ -31,5 +31,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/thomas_sowell_371257?src=t_technology"> </a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/grant_imahara_1115260?src=t_technology">
+
+Technology has always been a catalyst for change, such as the invention of the airplane or the Internet.
+
+
+</a></blockquote>
 </h6>
