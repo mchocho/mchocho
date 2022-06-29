@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/grant_imahara_1115260?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/kevin_mitnick_613263?src=t_technology">
 
-Technology has always been a catalyst for change, such as the invention of the airplane or the Internet.
+What I found personally to be true was that it's easier to manipulate people rather than technology.
 
 
 </a></blockquote>
