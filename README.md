@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/steve_jobs_416920?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/craig_federighi_874570?src=t_technology">
 
-It's not a faith in technology. It's faith in people.
+I became an engineer because I believe in the power of technology to enrich our lives.
 
 
 </a></blockquote>
