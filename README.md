@@ -31,10 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/craig_federighi_874570?src=t_technology">
-
-I became an engineer because I believe in the power of technology to enrich our lives.
-
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jerry_zucker_445112?src=t_technology"> </a></blockquote>
 </h6>
