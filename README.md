@@ -31,5 +31,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jerry_zucker_445112?src=t_technology"> </a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/arunachalam_muruganantham_980581?src=t_technology">
+
+I always say, 'Be near science and technology, and you will never fail.'
+
+
+</a></blockquote>
 </h6>
