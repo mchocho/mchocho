@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/bill_keller_505570?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/steve_jobs_416941?src=t_technology">
 
-Every technology, including the printing press, comes at some price.
+I've always wanted to own and control the primary technology in everything we do.
 
 
 </a></blockquote>
