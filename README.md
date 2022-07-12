@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/lisa_su_1024629?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/anita_elberse_620987?src=t_technology">
 
-The notion of what we're trying to do at AMD is about bringing out great technology, great products.
+If anything, the impact of digital technology is creating bigger brands and bigger superstars.
 
 
 </a></blockquote>
