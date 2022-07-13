@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/anita_elberse_620987?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/mario_andretti_636548?src=t_technology">
 
-If anything, the impact of digital technology is creating bigger brands and bigger superstars.
+I love technology - yes, I have fallen in love with older cars, but I'm all for new technology.
 
 
 </a></blockquote>
