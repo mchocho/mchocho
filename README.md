@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/ramez_naam_706063?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/frank_abagnale_790763?src=t_technology">
 
-The final frontier of the digital technology is integrating into your own brain.
+There is no technology today that cannot be defeated by social engineering.
 
 
 </a></blockquote>
