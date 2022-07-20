@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/alan_moore_592076?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/joseph_needham_208075?src=t_technology">
 
-Technology is always a two-edged sword. It will bring in many benefits, but also many disasters.
+Daoist thought is the root of science and technology in China.
 
 
 </a></blockquote>
