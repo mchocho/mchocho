@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/doug_mcmillon_1158861?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/wietse_venema_333643?src=t_technology">
 
-The future is not going to be driven exclusively by technology, but by people.
+Defect-free software does not exist.
 
 
 </a></blockquote>
