@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/wietse_venema_333643?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/brian_eno_478190?src=t_technology">
 
-Defect-free software does not exist.
+You can't really imagine music without technology.
 
 
 </a></blockquote>
