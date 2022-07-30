@@ -31,10 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/edward_teller_102595?src=t_technology">
-
-The science of today is the technology of tomorrow.
-
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/pope_paul_vi_390685?src=t_technology"> </a></blockquote>
 </h6>
