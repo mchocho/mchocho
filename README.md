@@ -31,5 +31,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/pope_paul_vi_390685?src=t_technology"> </a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/oren_etzioni_931702?src=t_technology">
+
+AI is neither good nor evil. It's a tool. It's a technology for us to use.
+
+
+</a></blockquote>
 </h6>
