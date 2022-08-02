@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/oren_etzioni_931702?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/astro_teller_720810?src=t_technology">
 
-AI is neither good nor evil. It's a tool. It's a technology for us to use.
+Doing exercise without monitoring yourself will be rare in the future of wearable technology.
 
 
 </a></blockquote>
