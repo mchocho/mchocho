@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/astro_teller_720810?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/bob_dole_102270?src=t_technology">
 
-Doing exercise without monitoring yourself will be rare in the future of wearable technology.
+The internet is a great way to get on the net.
 
 
 </a></blockquote>
