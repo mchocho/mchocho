@@ -31,10 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/bob_dole_102270?src=t_technology">
-
-The internet is a great way to get on the net.
-
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/a_p_j_abdul_kalam_179905?src=t_technology"> </a></blockquote>
 </h6>
