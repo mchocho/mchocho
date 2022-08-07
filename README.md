@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/thomas_friedman_342286?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/mukesh_ambani_937440?src=t_technology">
 
-We are led by lawyers who do not understand either technology or balance sheets.
+Mobile internet will be the single-most defining technology of this century for human development.
 
 
 </a></blockquote>
