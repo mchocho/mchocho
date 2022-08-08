@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/mukesh_ambani_937440?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/todd_howard_986076?src=t_technology">
 
-Mobile internet will be the single-most defining technology of this century for human development.
+The technology for radiant stories in 'Skyrim' is phenomenal. We tried and pared it back.
 
 
 </a></blockquote>
