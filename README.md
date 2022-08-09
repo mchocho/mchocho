@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/todd_howard_986076?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/valerie_jarrett_876269?src=t_technology">
 
-The technology for radiant stories in 'Skyrim' is phenomenal. We tried and pared it back.
+Many of our advances in science and technology were seeded through government.
 
 
 </a></blockquote>
