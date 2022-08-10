@@ -31,10 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/valerie_jarrett_876269?src=t_technology">
-
-Many of our advances in science and technology were seeded through government.
-
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/shoshana_zuboff_398657?src=t_technology"> </a></blockquote>
 </h6>
