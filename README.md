@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/matt_mullenweg_541097?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jeanmichel_jarre_816154?src=t_technology">
 
-Technology is best when it brings people together.
+Technology does not always rhyme with perfection and reliability. Far from it in reality!
 
 
 </a></blockquote>
