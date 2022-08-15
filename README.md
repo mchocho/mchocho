@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jeanmichel_jarre_816154?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/daniel_bell_177480?src=t_technology">
 
-Technology does not always rhyme with perfection and reliability. Far from it in reality!
+Technology, like art, is a soaring exercise of the human imagination.
 
 
 </a></blockquote>
