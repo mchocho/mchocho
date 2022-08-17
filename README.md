@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/daniel_bell_177480?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/christian_lous_lange_335254?src=t_technology">
 
-Technology, like art, is a soaring exercise of the human imagination.
+Technology is a useful servant but a dangerous master.
 
 
 </a></blockquote>
