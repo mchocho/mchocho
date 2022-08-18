@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/christian_lous_lange_335254?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/elon_musk_949263?src=t_technology">
 
-Technology is a useful servant but a dangerous master.
+The key to making things affordable is design and technology improvements, as well as scale.
 
 
 </a></blockquote>
