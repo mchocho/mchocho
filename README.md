@@ -31,10 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/an_wang_389644?src=t_technology">
-
-My theme for philanthropy is the same approach I used with technology: to find a need and fill it.
-
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/brenton_thwaites_636871?src=t_technology"> </a></blockquote>
 </h6>
