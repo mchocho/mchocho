@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/fred_allen_108078?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jack_ma_801806?src=t_technology">
 
-Television is a medium because anything well done is rare.
+Our philosophy is, using internet technology, we can make every company become Amazon.
 
 
 </a></blockquote>
