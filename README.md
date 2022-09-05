@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/ludwig_mies_van_der_rohe_701716?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/natasha_bedingfield_498909?src=t_technology">
 
-Wherever technology reaches its real fulfillment, it transcends into architecture.
+The music technology scene is changing so fast it's hard to keep up.
 
 
 </a></blockquote>
