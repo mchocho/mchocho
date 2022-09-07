@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/chris_toumazou_689564?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/arnold_h_glasow_161901?src=t_technology">
 
-Medical Device technology is truly interdisciplinary.
+What the country needs are a few labor-making inventions.
 
 
 </a></blockquote>
