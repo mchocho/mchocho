@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/larry_page_622181?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/dave_barry_102110?src=t_technology">
 
-Especially in technology, we need revolutionary change, not incremental change.
+Bill Gates is a very rich man today... and do you want to know why? The answer is one word: versions.
 
 
 </a></blockquote>
