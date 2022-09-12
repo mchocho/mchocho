@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/clive_james_386246?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/abigail_johnson_848042?src=t_technology">
 
-Everyone has a right to a university degree in America, even if it's in Hamburger Technology.
+I love this stuff - bitcoin, ethereum, blockchain technology - and what the future holds.
 
 
 </a></blockquote>
