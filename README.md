@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/abigail_johnson_848042?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/frank_lloyd_wright_127714?src=t_technology">
 
-I love this stuff - bitcoin, ethereum, blockchain technology - and what the future holds.
+Mechanization best serves mediocrity.
 
 
 </a></blockquote>
