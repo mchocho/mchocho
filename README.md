@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/dietmar_hopp_708472?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/bernard_ebbers_233196?src=t_technology">
 
-The biotechnology wave is similar to the information technology wave of the 1980s and 1990s.
+I don't know technology and engineering. I don't know accounting.
 
 
 </a></blockquote>
