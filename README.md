@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/bernard_ebbers_233196?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/alissa_quart_932135?src=t_technology">
 
-I don't know technology and engineering. I don't know accounting.
+An IPO-mad technology boom made 'selling out' itself into an honorific.
 
 
 </a></blockquote>
