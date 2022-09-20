@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/alissa_quart_932135?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/ashton_kutcher_569602?src=t_technology">
 
-An IPO-mad technology boom made 'selling out' itself into an honorific.
+The film industry brings people together, and so does technology. I see them as similar platforms.
 
 
 </a></blockquote>
