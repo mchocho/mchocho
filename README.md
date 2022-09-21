@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/ashton_kutcher_569602?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jack_ma_801806?src=t_technology">
 
-The film industry brings people together, and so does technology. I see them as similar platforms.
+Our philosophy is, using internet technology, we can make every company become Amazon.
 
 
 </a></blockquote>
