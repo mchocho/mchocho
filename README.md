@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/neri_oxman_906483?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/arthur_m_schlesinger_109503?src=t_technology">
 
-Craft meets the machine in rapid fabrication. We can generate craft with the help of technology.
+Science and technology revolutionize our lives, but memory, tradition and myth frame our response.
 
 
 </a></blockquote>
