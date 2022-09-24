@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/arthur_m_schlesinger_109503?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/che_guevara_746569?src=t_technology">
 
-Science and technology revolutionize our lives, but memory, tradition and myth frame our response.
+Study hard so that you can master technology, which allows us to master nature.
 
 
 </a></blockquote>
