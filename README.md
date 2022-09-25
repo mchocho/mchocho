@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/che_guevara_746569?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/keith_richards_360919?src=t_technology">
 
-Study hard so that you can master technology, which allows us to master nature.
+To make a rock'n'roll record, technology is the least important thing.
 
 
 </a></blockquote>
