@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/marlee_matlin_596664?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/aneel_bhusri_910535?src=t_technology">
 
-YouTube is akin to having my own network.
+There's talent everywhere; we just have to make technology accessible to them.
 
 
 </a></blockquote>
