@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/aneel_bhusri_910535?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/godfrey_reggio_355798?src=t_technology">
 
-There's talent everywhere; we just have to make technology accessible to them.
+Technology has become as ubiquitous as the air we breathe, so we are no longer conscious of its presence.
 
 
 </a></blockquote>
