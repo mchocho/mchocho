@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/godfrey_reggio_355798?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/mark_warner_175746?src=t_technology">
 
-Technology has become as ubiquitous as the air we breathe, so we are no longer conscious of its presence.
+Virginia is the absolute leader in homeland security and defense and information technology.
 
 
 </a></blockquote>
