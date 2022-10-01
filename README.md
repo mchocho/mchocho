@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jan_c_ting_638183?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/muhammad_yunus_593352?src=t_technology">
 
-Technology and robotics are advancing and will reduce the need for workers in the future.
+While technology is important, it's what we do with it that truly matters.
 
 
 </a></blockquote>
