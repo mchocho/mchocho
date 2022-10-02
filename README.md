@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/muhammad_yunus_593352?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/bill_gates_626115?src=t_technology">
 
-While technology is important, it's what we do with it that truly matters.
+Technology is unlocking the innate compassion we have for our fellow human beings.
 
 
 </a></blockquote>
