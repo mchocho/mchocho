@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/nick_johnson_406557?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/ted_chiang_713053?src=t_technology">
 
-The further you get into technology, the further you go into gaming. That's the general rule.
+We don't normally think of it as such, but writing is a technology.
 
 
 </a></blockquote>
