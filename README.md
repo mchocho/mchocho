@@ -31,10 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/ted_chiang_713053?src=t_technology">
-
-We don't normally think of it as such, but writing is a technology.
-
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jacques_ellul_347020?src=t_technology"> </a></blockquote>
 </h6>
