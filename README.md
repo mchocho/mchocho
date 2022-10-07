@@ -31,5 +31,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jacques_ellul_347020?src=t_technology"> </a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/atal_bihari_vajpayee_805693?src=t_technology">
+
+The spending in science and technology need to be to increased.
+
+
+</a></blockquote>
 </h6>
