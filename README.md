@@ -31,5 +31,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/daniel_suarez_661822?src=t_technology"> </a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/r_buckminster_fuller_100117?src=t_technology">
+
+Humanity is acquiring all the right technology for all the wrong reasons.
+
+
+</a></blockquote>
 </h6>
