@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/michael_porter_381636?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/saroo_brierley_948982?src=t_technology">
 
-The underlying principles of strategy are enduring, regardless of technology or the pace of change.
+A lot of people forget that anything is accomplishable if you embrace technology.
 
 
 </a></blockquote>
