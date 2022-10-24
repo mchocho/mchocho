@@ -31,5 +31,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/tristan_harris_1127190?src=t_technology"> </a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/carl_sagan_108057?src=t_technology">
+
+We've arranged a civilization in which most crucial elements profoundly depend on science and technology.
+
+
+</a></blockquote>
 </h6>
