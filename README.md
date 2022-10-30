@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/oscar_munoz_876394?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/richard_dawkins_626786?src=t_technology">
 
-It is a free world. It is a dynamic of our new day and age: technology is everywhere.
+Science, as opposed to technology, does violence to common sense.
 
 
 </a></blockquote>
