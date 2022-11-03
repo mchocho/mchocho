@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jordan_peterson_927046?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/robert_rodriguez_441612?src=t_technology">
 
-To master a new technology, you have to play with it.
+Creative people are notoriously the slowest to adopt new technology.
 
 
 </a></blockquote>
