@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/robert_rodriguez_441612?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/issey_miyake_351614?src=t_technology">
 
-Creative people are notoriously the slowest to adopt new technology.
+Even when I work with computers, with high technology, I always try to put in the touch of the hand.
 
 
 </a></blockquote>
