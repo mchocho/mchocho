@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/issey_miyake_351614?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/richard_dawkins_626786?src=t_technology">
 
-Even when I work with computers, with high technology, I always try to put in the touch of the hand.
+Science, as opposed to technology, does violence to common sense.
 
 
 </a></blockquote>
