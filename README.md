@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/bill_gates_626115?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/chuka_umunna_1041921?src=t_technology">
 
-Technology is unlocking the innate compassion we have for our fellow human beings.
+As the world has changed through globalisation and technology, it has left many feeling left behind.
 
 
 </a></blockquote>
