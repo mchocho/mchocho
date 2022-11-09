@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/chuka_umunna_1041921?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/laurence_j_peter_159720?src=t_technology">
 
-As the world has changed through globalisation and technology, it has left many feeling left behind.
+Television has changed the American child from an irresistable force to an immovable object.
 
 
 </a></blockquote>
