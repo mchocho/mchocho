@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/bernard_ebbers_405299?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/frank_abagnale_182476?src=t_technology">
 
-I know what I don't know. To this day, I don't know technology, and I don't know finance or accounting.
+What I did in my youth is hundreds of times easier today. Technology breeds crime.
 
 
 </a></blockquote>
