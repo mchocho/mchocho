@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/frank_abagnale_182476?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/uday_kotak_708766?src=t_technology">
 
-What I did in my youth is hundreds of times easier today. Technology breeds crime.
+Technology is an enabler; you have to be at the cutting edge of technology - there is no choice.
 
 
 </a></blockquote>
