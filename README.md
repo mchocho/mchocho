@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/uday_kotak_708766?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/marc_andreessen_283278?src=t_technology">
 
-Technology is an enabler; you have to be at the cutting edge of technology - there is no choice.
+Any new technology tends to go through a 25-year adoption cycle.
 
 
 </a></blockquote>
