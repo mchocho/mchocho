@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/marc_andreessen_283278?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/shaun_evans_929499?src=t_technology">
 
-Any new technology tends to go through a 25-year adoption cycle.
+I'm a total Luddite when it comes to gadgets and technology.
 
 
 </a></blockquote>
