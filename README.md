@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/shaun_evans_929499?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jordan_peterson_927042?src=t_technology">
 
-I'm a total Luddite when it comes to gadgets and technology.
+The multiplication force of technology on cognitive differences is massive.
 
 
 </a></blockquote>
