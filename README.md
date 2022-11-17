@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jordan_peterson_927042?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/john_perry_barlow_125882?src=t_technology">
 
-The multiplication force of technology on cognitive differences is massive.
+The Internet treats censorship as a malfunction and routes around it.
 
 
 </a></blockquote>
