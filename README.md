@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/james_may_976730?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/alvin_toffler_386113?src=t_technology">
 
-I'm a big user of digital technology, but I don't find it beautiful.
+Our technological powers increase, but the side effects and potential hazards also escalate.
 
 
 </a></blockquote>
