@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jeanmichel_jarre_816193?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/godfrey_reggio_355797?src=t_technology">
 
-Technology is neutral, but it all depends on the way we use it.
+It's not that we use technology, we live technology.
 
 
 </a></blockquote>
