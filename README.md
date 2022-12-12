@@ -31,5 +31,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/david_cronenberg_368404?src=t_technology"> </a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/richard_stallman_473487?src=t_technology">
+
+Sharing is good, and with digital technology, sharing is easy.
+
+
+</a></blockquote>
 </h6>
