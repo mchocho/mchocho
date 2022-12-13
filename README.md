@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/richard_stallman_473487?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/ludwig_mies_van_der_rohe_701716?src=t_technology">
 
-Sharing is good, and with digital technology, sharing is easy.
+Wherever technology reaches its real fulfillment, it transcends into architecture.
 
 
 </a></blockquote>
