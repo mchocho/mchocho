@@ -31,10 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/orrin_hatch_102546?src=t_technology">
-
-Microsoft is engaging in unlawful predatory practices that go well beyond the scope of fair competition.
-
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/matt_mullenweg_541097?src=t_technology"> </a></blockquote>
 </h6>
