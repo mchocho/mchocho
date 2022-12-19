@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/alan_moore_592076?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/tom_hodgkinson_527560?src=t_technology">
 
-Technology is always a two-edged sword. It will bring in many benefits, but also many disasters.
+All of our technology is completely unnecessary to a happy life.
 
 
 </a></blockquote>
