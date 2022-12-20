@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/tom_hodgkinson_527560?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jordan_peterson_927046?src=t_technology">
 
-All of our technology is completely unnecessary to a happy life.
+To master a new technology, you have to play with it.
 
 
 </a></blockquote>
