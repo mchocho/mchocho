@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jordan_peterson_927046?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/mitch_kapor_163583?src=t_technology">
 
-To master a new technology, you have to play with it.
+Getting information off the Internet is like taking a drink from a fire hydrant.
 
 
 </a></blockquote>
