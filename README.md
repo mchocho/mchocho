@@ -31,10 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/mitch_kapor_163583?src=t_technology">
-
-Getting information off the Internet is like taking a drink from a fire hydrant.
-
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/larry_page_622181?src=t_technology"> </a></blockquote>
 </h6>
