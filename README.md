@@ -9,7 +9,7 @@
 <img alt="resume" src="https://img.shields.io/badge/-Resume-purple?style=for-the-badge"/>
 </a>
 </h4>
-<h5>Latest follower – <a class="follower" href="https://github.com/MoshiDaBush" target="_blank">MoshiDaBush</a> 👋🏿</h5>
+<h5>Latest follower – <a class="follower" href="https://github.com/AbdeenM" target="_blank">AbdeenM</a> 👋🏿</h5>
 <h4>Favourites</h4>
 <h5>
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;ogoColor=white"/>  
@@ -31,10 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/marc_andreessen_283278?src=t_technology">
-
-Any new technology tends to go through a 25-year adoption cycle.
-
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/tristan_harris_1127190?src=t_technology"> </a></blockquote>
 </h6>
