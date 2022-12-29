@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/marshall_mcluhan_115909?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/arunachalam_muruganantham_980581?src=t_technology">
 
-The new electronic independence re-creates the world in the image of a global village.
+I always say, 'Be near science and technology, and you will never fail.'
 
 
 </a></blockquote>
