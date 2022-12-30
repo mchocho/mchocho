@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/arunachalam_muruganantham_980581?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/edward_teller_102595?src=t_technology">
 
-I always say, 'Be near science and technology, and you will never fail.'
+The science of today is the technology of tomorrow.
 
 
 </a></blockquote>
