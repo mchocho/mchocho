@@ -9,7 +9,7 @@
 <img alt="resume" src="https://img.shields.io/badge/-Resume-purple?style=for-the-badge"/>
 </a>
 </h4>
-<h5>Latest follower – <a class="follower" href="https://github.com/AbdeenM" target="_blank">AbdeenM</a> 👋🏿</h5>
+<h5>Latest follower – <a class="follower" href="https://github.com/MoshiDaBush" target="_blank">MoshiDaBush</a> 👋🏿</h5>
 <h4>Favourites</h4>
 <h5>
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;ogoColor=white"/>  
@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/arthur_c_clarke_158974?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/marshall_mcluhan_386841?src=t_technology">
 
-Our lifetime may be the last that will be lived out in a technological society.
+It is the framework which changes with each new technology and not just the picture within the frame.
 
 
 </a></blockquote>
