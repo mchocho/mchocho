@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/simon_wiesenthal_385872?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/mukesh_ambani_937432?src=t_technology">
 
-Technology without hatred can be a blessing. Technology with hatred is always a disaster.
+I have always believed that technology drives human civilization's endeavor and progress.
 
 
 </a></blockquote>
