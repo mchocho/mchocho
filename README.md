@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/stewart_brand_172275?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/farhan_akhtar_976346?src=t_technology">
 
-Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road.
+I am very fond of technology and like to keep pace with change.
 
 
 </a></blockquote>
