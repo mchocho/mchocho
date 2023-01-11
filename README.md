@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/farhan_akhtar_976346?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/arthur_m_schlesinger_109503?src=t_technology">
 
-I am very fond of technology and like to keep pace with change.
+Science and technology revolutionize our lives, but memory, tradition and myth frame our response.
 
 
 </a></blockquote>
