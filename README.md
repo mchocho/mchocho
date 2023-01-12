@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/arthur_m_schlesinger_109503?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/simon_wiesenthal_385872?src=t_technology">
 
-Science and technology revolutionize our lives, but memory, tradition and myth frame our response.
+Technology without hatred can be a blessing. Technology with hatred is always a disaster.
 
 
 </a></blockquote>
