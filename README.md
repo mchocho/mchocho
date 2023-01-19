@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/mike_leach_1037801?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/max_levchin_515915?src=t_technology">
 
-I'm not really good with technology.
+Technology has come a long way since PayPal.
 
 
 </a></blockquote>
