@@ -31,10 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/max_levchin_515915?src=t_technology">
-
-Technology has come a long way since PayPal.
-
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/ryan_bethencourt_798409?src=t_technology"> </a></blockquote>
 </h6>
