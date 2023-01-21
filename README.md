@@ -31,5 +31,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/ryan_bethencourt_798409?src=t_technology"> </a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jaron_lanier_483082?src=t_technology">
+
+It is impossible to work in information technology without also engaging in social engineering.
+
+
+</a></blockquote>
 </h6>
