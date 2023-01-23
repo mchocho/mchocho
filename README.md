@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/peter_thiel_710352?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/paul_allen_948354?src=t_technology">
 
-Technology just means information technology.
+I believe in the power of shared data and technology to help build a better future.
 
 
 </a></blockquote>
