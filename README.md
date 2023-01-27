@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jan_c_ting_638183?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/taavet_hinrikus_935886?src=t_technology">
 
-Technology and robotics are advancing and will reduce the need for workers in the future.
+The world is getting smaller thanks to technology.
 
 
 </a></blockquote>
