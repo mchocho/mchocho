@@ -31,5 +31,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/arthur_compton_228328?src=t_technology"> </a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/roelof_botha_540869?src=t_technology">
+
+Israel has incredible entrepreneurial spirit and a deep bench of technology talent.
+
+
+</a></blockquote>
 </h6>
