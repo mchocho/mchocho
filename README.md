@@ -31,5 +31,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/hakeem_jeffries_628597?src=t_technology"> </a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/dalai_lama_621071?src=t_technology">
+
+I think technology really increased human ability. But technology cannot produce compassion.
+
+
+</a></blockquote>
 </h6>
