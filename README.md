@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/dalai_lama_621071?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/zeenat_aman_1147519?src=t_technology">
 
-I think technology really increased human ability. But technology cannot produce compassion.
+I am comfortable with technology. I am a private person and would rather not be on Twitter or Facebook.
 
 
 </a></blockquote>
