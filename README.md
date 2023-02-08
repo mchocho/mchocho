@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/barry_commoner_462466?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/reed_hastings_423625?src=t_technology">
 
-The age of innocent faith in science and technology may be over.
+Stone Age. Bronze Age. Iron Age. We define entire epics of humanity by the technology they use.
 
 
 </a></blockquote>
