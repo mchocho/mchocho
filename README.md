@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/reed_hastings_423625?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jim_rash_660620?src=t_technology">
 
-Stone Age. Bronze Age. Iron Age. We define entire epics of humanity by the technology they use.
+We all know that technology has advanced to the point of watching TV online.
 
 
 </a></blockquote>
