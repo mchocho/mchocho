@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jeff_bezos_450001?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/arthur_c_clarke_158974?src=t_technology">
 
-I think there are going to be a bunch of tablet-like devices. It's really a different product category.
+Our lifetime may be the last that will be lived out in a technological society.
 
 
 </a></blockquote>
