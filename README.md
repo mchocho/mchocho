@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/arthur_c_clarke_158974?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/antoine_predock_556323?src=t_technology">
 
-Our lifetime may be the last that will be lived out in a technological society.
+I like to think about machines and technology in relation to landscape and architecture.
 
 
 </a></blockquote>
