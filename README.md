@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jordan_peterson_927046?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/marc_andreessen_283278?src=t_technology">
 
-To master a new technology, you have to play with it.
+Any new technology tends to go through a 25-year adoption cycle.
 
 
 </a></blockquote>
