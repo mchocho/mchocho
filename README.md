@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/marc_andreessen_283278?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/robert_m_pirsig_676388?src=t_technology">
 
-Any new technology tends to go through a 25-year adoption cycle.
+If you run from technology, it will chase you.
 
 
 </a></blockquote>
