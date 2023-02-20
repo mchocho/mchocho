@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/douglas_coupland_583224?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/hyun_bin_1162368?src=t_technology">
 
-Even when you take a holiday from technology, technology doesn't take a break from you.
+More than Korean films and series, technology helped us share our culture.
 
 
 </a></blockquote>
