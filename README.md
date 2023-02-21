@@ -31,10 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/hyun_bin_1162368?src=t_technology">
-
-More than Korean films and series, technology helped us share our culture.
-
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/w_daniel_hillis_554321?src=t_technology"> </a></blockquote>
 </h6>
