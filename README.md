@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/steven_levy_219537?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/william_gibson_131233?src=t_technology">
 
-Computer technology is so built into our lives that it's part of the surround of every artist.
+The 'Net is a waste of time, and that's exactly what's right about it.
 
 
 </a></blockquote>
