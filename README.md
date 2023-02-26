@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/david_copperfield_445505?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/steven_levy_219537?src=t_technology">
 
-Magic and new technology have always walked hand in hand - even back in the days of Robert Houdin.
+Computer technology is so built into our lives that it's part of the surround of every artist.
 
 
 </a></blockquote>
