@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/aleksander_kwasniewski_178527?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/larry_page_622181?src=t_technology">
 
-Technology should be an important ingredient. It may be and should be a tool for social development.
+Especially in technology, we need revolutionary change, not incremental change.
 
 
 </a></blockquote>
