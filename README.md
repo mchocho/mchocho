@@ -31,10 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/al_franken_583103?src=t_technology">
-
-Apple has long been a leading innovator of mobile technology; I myself own an iPhone.
-
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/eric_betzig_698695?src=t_technology"> </a></blockquote>
 </h6>
