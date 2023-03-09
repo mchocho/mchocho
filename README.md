@@ -31,10 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/r_buckminster_fuller_113331?src=t_technology">
-
-I just invent, then wait until man comes around to needing what I've invented.
-
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/nick_johnson_406557?src=t_technology"> </a></blockquote>
 </h6>
