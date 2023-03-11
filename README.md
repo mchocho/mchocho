@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/benedict_samuel_878568?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/daniel_bell_177480?src=t_technology">
 
-I'm not on any social media. I'm a bit analog when it comes to the Internet and technology.
+Technology, like art, is a soaring exercise of the human imagination.
 
 
 </a></blockquote>
