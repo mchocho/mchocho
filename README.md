@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/daniel_bell_177480?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/steve_jobs_416941?src=t_technology">
 
-Technology, like art, is a soaring exercise of the human imagination.
+I've always wanted to own and control the primary technology in everything we do.
 
 
 </a></blockquote>
