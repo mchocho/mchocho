@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/shoshana_zuboff_392610?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/aldous_huxley_101185?src=t_technology">
 
-As information technology restructures the work situation, it abstracts thought from action.
+Technological progress has merely provided us with more efficient means for going backwards.
 
 
 </a></blockquote>
