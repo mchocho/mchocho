@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/aldous_huxley_101185?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/atal_bihari_vajpayee_805693?src=t_technology">
 
-Technological progress has merely provided us with more efficient means for going backwards.
+The spending in science and technology need to be to increased.
 
 
 </a></blockquote>
