@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/bob_dole_102270?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/satya_nadella_597178?src=t_technology">
 
-The internet is a great way to get on the net.
+Businesses and users are going to use technology only if they can trust it.
 
 
 </a></blockquote>
