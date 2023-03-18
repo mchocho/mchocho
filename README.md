@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/satya_nadella_597178?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/marshall_mcluhan_115909?src=t_technology">
 
-Businesses and users are going to use technology only if they can trust it.
+The new electronic independence re-creates the world in the image of a global village.
 
 
 </a></blockquote>
