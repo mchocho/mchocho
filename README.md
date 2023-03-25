@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/ridley_scott_683488?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/tom_hanks_466519?src=t_technology">
 
-Technology continues to bring us wondrous advances in filmmaking to improve how we view movies.
+Tweeting is like sending out cool telegrams to your friends once a week.
 
 
 </a></blockquote>
