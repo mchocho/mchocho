@@ -31,10 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/tom_hanks_466519?src=t_technology">
-
-Tweeting is like sending out cool telegrams to your friends once a week.
-
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/meg_whitman_127264?src=t_technology"> </a></blockquote>
 </h6>
