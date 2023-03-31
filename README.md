@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/bill_maris_728874?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jeffrey_sachs_203567?src=t_technology">
 
-Healthcare is becoming part of information technology.
+Globalization was a deep trend pushed by technology and right ideas, as much as anything else.
 
 
 </a></blockquote>
