@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/elon_musk_425631?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/peter_thiel_710352?src=t_technology">
 
-Silicon Valley has some of the smartest engineers and technology business people in the world.
+Technology just means information technology.
 
 
 </a></blockquote>
