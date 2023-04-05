@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/peter_thiel_710352?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/john_lasseter_413108?src=t_technology">
 
-Technology just means information technology.
+The art challenges the technology, and the technology inspires the art.
 
 
 </a></blockquote>
