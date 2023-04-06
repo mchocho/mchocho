@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/john_lasseter_413108?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/mike_krieger_752108?src=t_technology">
 
-The art challenges the technology, and the technology inspires the art.
+I was born in Sao Paulo, Brazil, and from an early age was interested in technology and engineering.
 
 
 </a></blockquote>
