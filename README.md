@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/marshall_mcluhan_115909?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/al_boliska_108047?src=t_technology">
 
-The new electronic independence re-creates the world in the image of a global village.
+Do you realize if it weren't for Edison we'd be watching TV by candlelight?
 
 
 </a></blockquote>
