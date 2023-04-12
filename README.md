@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/al_boliska_108047?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/b_f_skinner_100029?src=t_technology">
 
-Do you realize if it weren't for Edison we'd be watching TV by candlelight?
+The real problem is not whether machines think but whether men do.
 
 
 </a></blockquote>
