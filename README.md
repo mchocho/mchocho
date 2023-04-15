@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/feifei_li_914164?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/joseph_needham_208075?src=t_technology">
 
-There is great potential to use computer vision technology in a constructive and benevolent way.
+Daoist thought is the root of science and technology in China.
 
 
 </a></blockquote>
