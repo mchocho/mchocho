@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/elon_musk_949263?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/bill_gates_626111?src=t_technology">
 
-The key to making things affordable is design and technology improvements, as well as scale.
+The intersection of law, politics, and technology is going to force a lot of good thinking.
 
 
 </a></blockquote>
