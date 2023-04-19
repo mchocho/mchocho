@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/alan_kay_375550?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/max_levchin_515915?src=t_technology">
 
-People who are really serious about software should make their own hardware.
+Technology has come a long way since PayPal.
 
 
 </a></blockquote>
