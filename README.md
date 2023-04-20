@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/max_levchin_515915?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/freeman_thomas_405929?src=t_technology">
 
-Technology has come a long way since PayPal.
+We were promised a simpler life, and technology has only complicated our lives.
 
 
 </a></blockquote>
