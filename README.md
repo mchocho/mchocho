@@ -31,10 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/freeman_thomas_405929?src=t_technology">
-
-We were promised a simpler life, and technology has only complicated our lives.
-
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/benedict_samuel_878568?src=t_technology"> </a></blockquote>
 </h6>
