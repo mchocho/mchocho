@@ -31,5 +31,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/benedict_samuel_878568?src=t_technology"> </a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/steve_jobs_416941?src=t_technology">
+
+I've always wanted to own and control the primary technology in everything we do.
+
+
+</a></blockquote>
 </h6>
