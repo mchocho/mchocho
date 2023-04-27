@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/thomas_bangalter_711550?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/frank_abagnale_790763?src=t_technology">
 
-Technology is fascinating.
+There is no technology today that cannot be defeated by social engineering.
 
 
 </a></blockquote>
