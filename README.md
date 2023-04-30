@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/alvin_toffler_378556?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/brendan_fraser_344774?src=t_technology">
 
-The great growling engine of change - technology.
+As sophisticated as the technology gets, the less sophisticated you have to become as an actor.
 
 
 </a></blockquote>
