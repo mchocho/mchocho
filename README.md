@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jack_ma_477683?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/viktor_orban_798953?src=t_technology">
 
-I'm not a tech guy. I'm looking at the technology with the eyes of my customers, normal people's eyes.
+Europe has the technology, the strategic and economic might to defend itself.
 
 
 </a></blockquote>
