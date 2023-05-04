@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/viktor_orban_798953?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/alvin_toffler_378556?src=t_technology">
 
-Europe has the technology, the strategic and economic might to defend itself.
+The great growling engine of change - technology.
 
 
 </a></blockquote>
