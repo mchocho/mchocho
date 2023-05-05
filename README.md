@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/alvin_toffler_378556?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/henry_david_thoreau_108059?src=t_technology">
 
-The great growling engine of change - technology.
+Men have become the tools of their tools.
 
 
 </a></blockquote>
