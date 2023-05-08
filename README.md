@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/daniel_bell_177480?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/toni_cade_bambara_405020?src=t_technology">
 
-Technology, like art, is a soaring exercise of the human imagination.
+And what is religion, you might ask. It's a technology of living.
 
 
 </a></blockquote>
