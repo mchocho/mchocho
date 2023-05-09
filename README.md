@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/toni_cade_bambara_405020?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/elon_musk_949263?src=t_technology">
 
-And what is religion, you might ask. It's a technology of living.
+The key to making things affordable is design and technology improvements, as well as scale.
 
 
 </a></blockquote>
