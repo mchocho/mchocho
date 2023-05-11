@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/godfrey_reggio_355798?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/lou_gramm_284752?src=t_technology">
 
-Technology has become as ubiquitous as the air we breathe, so we are no longer conscious of its presence.
+Regardless what technology is, I like analog too.
 
 
 </a></blockquote>
