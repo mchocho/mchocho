@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/lou_gramm_284752?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/vint_cerf_605906?src=t_technology">
 
-Regardless what technology is, I like analog too.
+In 1973, the only cryptographic technology we could get our hands on was classified.
 
 
 </a></blockquote>
