@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/vint_cerf_605906?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jeanmichel_jarre_816193?src=t_technology">
 
-In 1973, the only cryptographic technology we could get our hands on was classified.
+Technology is neutral, but it all depends on the way we use it.
 
 
 </a></blockquote>
