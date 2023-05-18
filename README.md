@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/simon_wiesenthal_205794?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/tim_bernerslee_100459?src=t_technology">
 
-The combination of hatred and technology is the greatest danger threatening mankind.
+You affect the world by what you browse.
 
 
 </a></blockquote>
