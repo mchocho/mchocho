@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/barry_silbert_851298?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/macklemore_483476?src=t_technology">
 
-You just can't bifurcate bitcoin currency from the technology. Bitcoin will always need a monetary base.
+Sampling is kind of prehistoric, given the technology and the textures you can create.
 
 
 </a></blockquote>
