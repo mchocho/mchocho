@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/macklemore_483476?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/ben_whishaw_517400?src=t_technology">
 
-Sampling is kind of prehistoric, given the technology and the textures you can create.
+I'm really hopeless with technology - I don't even have a computer.
 
 
 </a></blockquote>
