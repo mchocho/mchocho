@@ -31,10 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/ben_whishaw_517400?src=t_technology">
-
-I'm really hopeless with technology - I don't even have a computer.
-
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/eric_betzig_698695?src=t_technology"> </a></blockquote>
 </h6>
