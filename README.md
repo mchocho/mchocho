@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/issey_miyake_351614?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/frances_arnold_1066282?src=t_technology">
 
-Even when I work with computers, with high technology, I always try to put in the touch of the hand.
+Science and technology are going to be the basis for many of the solutions to social problems.
 
 
 </a></blockquote>
