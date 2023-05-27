@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/frances_arnold_1066282?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/max_frisch_390578?src=t_technology">
 
-Science and technology are going to be the basis for many of the solutions to social problems.
+Technology... the knack of so arranging the world that we don't have to experience it.
 
 
 </a></blockquote>
