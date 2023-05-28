@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/max_frisch_390578?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jeffrey_sachs_203567?src=t_technology">
 
-Technology... the knack of so arranging the world that we don't have to experience it.
+Globalization was a deep trend pushed by technology and right ideas, as much as anything else.
 
 
 </a></blockquote>
