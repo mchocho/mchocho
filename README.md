@@ -31,10 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jeffrey_sachs_203567?src=t_technology">
-
-Globalization was a deep trend pushed by technology and right ideas, as much as anything else.
-
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/issey_miyake_351614?src=t_technology"> </a></blockquote>
 </h6>
