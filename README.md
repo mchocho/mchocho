@@ -31,10 +31,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/laurence_j_peter_159720?src=t_technology">
-
-Television has changed the American child from an irresistable force to an immovable object.
-
-
-</a></blockquote>
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/christopher_lee_676626?src=t_technology"> </a></blockquote>
 </h6>
