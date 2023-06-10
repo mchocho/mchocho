@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/jaron_lanier_483097?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/larry_wall_131241?src=t_technology">
 
-People try to treat technology as an object, and it can't be. It can only be a channel.
+Real programmers can write assembly code in any language.
 
 
 </a></blockquote>
