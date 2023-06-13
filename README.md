@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/edward_r_murrow_116313?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/bill_keller_505570?src=t_technology">
 
-A satellite has no conscience.
+Every technology, including the printing press, comes at some price.
 
 
 </a></blockquote>
