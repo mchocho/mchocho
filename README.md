@@ -31,9 +31,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mchocho.mchocho)
 <h6>
-  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/chuka_umunna_1041921?src=t_technology">
+  Gitbot says <blockquote class="magic-quote"><a href="https://www.brainyquote.com/quotes/bryan_adams_437557?src=t_technology">
 
-As the world has changed through globalisation and technology, it has left many feeling left behind.
+Focus on your music and not technology.
 
 
 </a></blockquote>
